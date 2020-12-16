@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 20Y-CHEC: 20 Years of Confusion in Human Evaluation
 
-You can use the [editor on GitHub](https://github.com/evalgenchal/20Y-CHEC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the website relating to our INLG 2020 paper:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Howcroft, Belz, Clinciu, Gkatzia, Hasan, Mahamood, Mille, van Miltenburg, Santhanam, & Rieser. (2020). "Twenty Years of Confusion in Human Evaluation: NLG Needs Evaluation Sheets and Standardised Definitions". [ACL Anthology](https://www.aclweb.org/anthology/2020.inlg-1.23/) | [PDF](https://www.aclweb.org/anthology/2020.inlg-1.23.pdf)
 
-### Markdown
+You will currently find the annotations and our analysis scripts as well as the highlighted PDFs associated with our annotations in [the GitHub repo](https://github.com/evalgenchal/20Y-CHEC).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evalgenchal/20Y-CHEC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please open an issue on the GitHub repo if you have difficulty reproducing our analyses or if you find problems with our code or data.
